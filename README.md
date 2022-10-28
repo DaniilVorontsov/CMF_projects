@@ -1,2 +1,2 @@
 # CMF_projects
-Projects that completed at CMF educational programme
+Projects completed at CMF educational programme
