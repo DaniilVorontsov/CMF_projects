@@ -1,0 +1,6 @@
+Future move price prediction. 
+Data-driven approaches for predicting an asset price future move over a mid-term horizon.
+
+Задача берет корни в высокочастотной торговле, где для обычно необходимо решать две задачи:
+1) pricing (price prediction, т.е. где в ближайшее время будет цена торгуемого актива)
+2) ordering (какие нужно отправлять на рынок ордера для эксплуатации prediction).
