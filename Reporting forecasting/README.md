@@ -8,4 +8,4 @@
 
 Формат решения - питоновский ноутбук
 
-
+https://www.kaggle.com/datasets/jarbol/oil-gas-predict
