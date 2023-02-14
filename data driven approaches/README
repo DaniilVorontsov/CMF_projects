@@ -8,5 +8,5 @@ Data-driven approaches for predicting an asset price future move over a mid-term
 Описание соревнования в файле word. 
 Проведён эксплоративный анализ, файл EDA.
 Выбор модели в файле Model Selection and fitting. Строится линейная регрессия с L2 регуляризацией.
-Предобученная модель в файле model_scripted.
-Шаблон, загружаемый на соревнование - ridge submit new
+Предобученная модель в файле ridge_model.pt
+Шаблон, загружаемый на соревнование - ridge submit new.
