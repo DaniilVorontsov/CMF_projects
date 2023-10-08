@@ -1,11 +1,10 @@
-Финансовая отчетность американских нефтегазовых компаний.  
-Задача - для каждой компании построить прогноз показателей Revenue и Operating Income.  
-Это может быть единая для всех формула, или индивидуальные модели.  
+Financial statements of American oil and gas companies.
+The task is to build a forecast of Revenue and Operating Income indicators for each company.
+It can be a uniform formula for all, or individual models.
 
-Данные разложены по двум папкам: в папке oil gas train test самый полный набор, в папке oil gas train - те же компании, но все временные ряды укорочены на год. На этот недостающий год и нужно сделать прогноз. Для построения прогноза можно использовать все показатели отчетности, а также любой набор внешних данных: макроэкономические факторы, курсы валют, цены товаров и т.д.  
+The data is spread out in two folders: in the oil gas train test folder the most complete set, in the oil gas train folder - the same companies, but all time series are shortened by a year. For this missing year, we need to make a forecast. To build a forecast, you can use all reporting indicators, as well as any set of external data: macroeconomic factors, exchange rates, commodity prices, etc.
 
-Для оценки качества прогноза понадобится метрика, способная ответить на вопросы, насколько хорошо спрогнозированы выручка и прибыль по отдельности, насколько хорош прогноз пары выручка-прибыль и каково качество прогнозов для всей совокупности компаний. Вы всегда сможете рассчитать эту метрику, поскольку в папке oil gas train test будут известны фактические значения на прогнозный период. С помощью этой метрики вы можете выбрать наиболее удачную модель.  
-  
-Формат решения - питоновский ноутбук.  
+To assess the quality of the forecast, you will need a metric that can answer the questions of how well revenue and profit are predicted separately, how good is the forecast of the revenue-profit pair and what is the quality of forecasts for the entire set of companies. You will always be able to calculate this metric, since the actual values for the forecast period will be known in the oil gas train test folder.
 
+The format of the solution is a Python laptop.
 https://www.kaggle.com/datasets/jarbol/oil-gas-predict
