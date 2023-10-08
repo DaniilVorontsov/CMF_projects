@@ -1,12 +1,12 @@
-Future move price prediction. 
-Data-driven approaches for predicting an asset price future move over a mid-term horizon.  
+Future move price prediction.
+Data-driven approaches for predicting an asset price future move over a mid-term horizon.
 
-Задача берет корни в высокочастотной торговле, где для обычно необходимо решать две задачи:
-1) pricing (price prediction, т.е. где в ближайшее время будет цена торгуемого актива)
-2) ordering (какие нужно отправлять на рынок ордера для эксплуатации prediction).
+The problem has its roots in high-frequency trading, where it is usually necessary to solve two tasks:
+1) pricing (price prediction, i.e. where the price of the traded asset will be in the near future)
+2) ordering (which orders need to be sent to the market to exploit prediction).
 
-Описание соревнования в файле word. 
-Проведён эксплоративный анализ, файл EDA.
-Выбор модели в файле Model Selection and fitting. Строится линейная регрессия с L2 регуляризацией.
-Предобученная модель в файле ridge_model.pt
-Шаблон, загружаемый на соревнование - ridge submit new.
+Description of the competition in the word file.
+An exploratory analysis was carried out, the EDA file.
+Model selection in the Model Selection and fitting file. A basic linear regression with L2 regularization was implemented.
+The retrained model in the file ridge_model.pt
+The template uploaded to the competition is ridge submit new.
